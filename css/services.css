@@ -1,0 +1,87 @@
+/*
+Template Name: Crystal Interior
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+
+/*********************contact****************/
+.center_serv{
+background-image: url(../img/40.jpg);
+background-position: center;
+}
+.serv_1im2 span {
+background: #fff;
+width: 100px;
+height: 100px;
+line-height: 95px;
+border: 3px solid #e9212e;
+}
+.serv_1im2{
+top:200px; 
+ }
+.serv_1o{
+margin-top:290px;
+margin-bottom:270px; 
+ }
+.work_h2o{
+margin-top:150px; 
+ }
+#work_ho{
+padding-bottom:160px; 
+ }
+/*********************contact_end****************/
+
+
+@media screen and (max-width : 767px){
+.proj_h1r{
+margin-top:15px; 
+ }
+.proj_h1r p{
+text-align:left;
+ }
+.serv_1im2 {
+position:static!important;
+margin-top:15px;
+ }
+.serv_1im2 p{
+text-align:left;
+ }
+.serv_1im {
+margin-top:8px;
+margin-bottom:8px; 
+ }
+.serv_1o {
+margin-top:0;
+margin-bottom:0;
+}
+#work_ho {
+padding-bottom:0;
+}
+.work_h2o {
+margin-top:0;
+padding-bottom:30px;
+}
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+.serv_1im1 img{
+min-height:260px; 
+ }
+.serv_1im2  p{
+font-size:15px;
+ }
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+.serv_1im1 img{
+min-height:260px; 
+ }
+ }
+
+
+

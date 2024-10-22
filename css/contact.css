@@ -1,0 +1,44 @@
+/*
+Template Name: Crystal Interior
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+
+/*********************contact****************/
+.center_cont{
+background-image: url(../img/30.jpg);
+background-position: center;
+}
+
+/*********************contact_end****************/
+
+
+@media screen and (max-width : 767px){
+.contact_1i {
+margin-top:8px;
+margin-bottom:8px;
+padding:15px!important; 
+ }
+.contact_4i {
+width:100%!important; 
+ }
+.contact_4il{
+margin-top:10px; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+
+
+

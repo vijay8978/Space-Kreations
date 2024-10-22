@@ -1,0 +1,73 @@
+/*
+Template Name: Crystal Interior
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+
+/*********************about****************/
+.center_blog {
+background-image: url(../img/25.jpg);
+background-position: center;
+}
+.blog1r1 ul li  a {
+background: #f6f6f6;
+padding: 7px 10px 7px 10px;
+color: #828282;
+font-weight: 400;
+transition: all 500ms ease 0s;
+margin: 0px 0px 5px 0px;
+display:block;
+font-weight:400;
+}
+.blog1r1 ul li  a:hover {
+background:#e9212e;
+color:#fff; 
+ }
+ 
+.center_blog_dt{
+background-image: url(../img/29.jpg);
+background-position: center; 
+ }
+/*********************about_end****************/
+
+
+@media screen and (max-width : 767px){
+.blog_1r{
+margin-top:20px; 
+ }
+.blog1r1  h4{
+text-align:center; 
+ }
+.blog_1dtir {
+text-align:left!important;
+margin-top:15px; 
+ }
+.blog_dt2ir h5 a{
+margin-top:5px;
+ }
+.blog_1d2i1 .form-control{
+margin-top:10px; 
+ }
+.blog_1d2i  h6{
+text-align:center;  
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+.blog_1dtir  h6 a{
+margin-left:1px!important;
+margin-right:1px!important; 
+ }
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+
+
+
